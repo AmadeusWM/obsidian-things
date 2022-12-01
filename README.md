@@ -70,4 +70,4 @@ Again, I owe a huge hat tip to **@kepano** and his Minimal Theme, which served a
 
 🎉 You can help me keep improving _things_ like this by supporting development: **@colineckert** on [Twitter](https://www.twitter.com/colineckert) or [Buy me a coffee](https://www.buymeacoffee.com/colineckert).
 
-<a href="https://www.buymeacoffee.com/colineckert"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=colineckert&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
+<a href="https://www.buymeacoffee.com/amadeusWM"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=colineckert&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
